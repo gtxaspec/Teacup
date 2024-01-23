@@ -6659,7 +6659,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Sim.Enable" "0" (at 106.68 187.96 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27)))
     )
     (pin "1" (uuid 16cc4428-5a12-4a19-b2f4-c2dff36ca6c3))
     (pin "10" (uuid a9c7d8a7-cb84-420a-aae7-aaafb6ed7cf2))
