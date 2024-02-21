@@ -5727,33 +5727,6 @@
     )
   )
 
-  (symbol (lib_id "Graphic:Logo_Open_Hardware_Small") (at 312.674 101.473 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 1582549a-b19d-4124-b239-2e5d3217e1b7)
-    (property "Reference" "LOGO5" (at 312.674 94.488 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "OSHW SMALL" (at 319.151 101.473 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Symbol:OSHW-Logo_7.5x8mm_SilkScreen" (at 312.674 101.473 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 312.674 101.473 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Enable" "0" (at 312.674 101.473 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "12-30-23-Teacup.kicad_pcb-revC"
-        (path "/6e7ef4e6-2026-4726-8de0-60238113f775"
-          (reference "LOGO5") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:GND") (at 297.18 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 15a49f49-aab6-4356-b874-f53f5a39439d)
@@ -7410,33 +7383,6 @@
       (project "12-30-23-Teacup.kicad_pcb-revC"
         (path "/6e7ef4e6-2026-4726-8de0-60238113f775"
           (reference "#PWR0116") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Graphic:Logo_Open_Hardware_Small") (at 312.42 110.744 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 5229fc04-27e8-4a3b-acde-933268f98a9f)
-    (property "Reference" "LOGO1" (at 312.42 103.759 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "Teacup Logo" (at 312.42 116.459 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "teacup:Teacup-logo" (at 312.42 110.744 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 312.42 110.744 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Enable" "0" (at 312.42 110.744 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "12-30-23-Teacup.kicad_pcb-revC"
-        (path "/6e7ef4e6-2026-4726-8de0-60238113f775"
-          (reference "LOGO1") (unit 1)
         )
       )
     )
@@ -11112,6 +11058,33 @@
       (project "12-30-23-Teacup.kicad_pcb-revC"
         (path "/6e7ef4e6-2026-4726-8de0-60238113f775"
           (reference "R25") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Graphic:Logo_Open_Hardware_Small") (at 312.674 83.312 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid ef0bbb7b-72da-496f-ac83-45e4fd4aed45)
+    (property "Reference" "LOGO3" (at 312.674 76.327 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "Teacup Logo" (at 320.04 83.312 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "teacup:TClogo-med" (at 312.674 83.312 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 312.674 83.312 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Enable" "0" (at 312.674 83.312 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "12-30-23-Teacup.kicad_pcb-revC"
+        (path "/6e7ef4e6-2026-4726-8de0-60238113f775"
+          (reference "LOGO3") (unit 1)
         )
       )
     )
