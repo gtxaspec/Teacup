@@ -5,9 +5,6 @@
 BAREBONES: 
 https://www.pcbway.com/project/shareproject/Teacup_Rev_[C]_3_3_87971ed0.html
 
-TURNKEY:
-https://www.pcbway.com/project/shareproject/Teacup_Rev_[C]_3_3_turnkey_c69c7818.html
-
 # Teacup-Rev-C
 Teacup T31 development board
 
