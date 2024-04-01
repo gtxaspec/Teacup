@@ -28,3 +28,6 @@ GMAC PHY also pinned out to a header for use with an external phy.
 ## Audio
 Audio out and Mic tested and work
 
+## Firmware
+Thingino firmware, code is available on their Github
+https://github.com/themactep/thingino-firmware/wiki
