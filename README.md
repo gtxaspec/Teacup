@@ -22,7 +22,7 @@ This will set the sensor in the uboot environment and start the sensor on boot
 ## Networking:
 ```https://www.amazon.com/dp/B00MYT481C```
 
-Asic USB 2.0 ethernet adapter. This adapter works in both uboot and userland.
+Asix USB 2.0 ethernet adapter. This adapter works in both uboot and userland.
 GMAC PHY also pinned out to a header for use with an external phy.
 
 ## Audio
