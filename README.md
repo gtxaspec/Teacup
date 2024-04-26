@@ -2,11 +2,7 @@
 ![image](https://github.com/CapnRon/Teacup-Rev-C/assets/109708692/905a7fd2-8cfd-4323-8524-c1d3a89fc0b4)
 
 # TLDR: Where do i get one?
-BAREBONES: 
-https://www.pcbway.com/project/shareproject/Teacup_Rev_[C]_3_3_87971ed0.html
-
-TURNKEY:
-Send me a message
+https://ronshed.com/shop/
 
 # Teacup-Rev-C
 Teacup T31 development board
